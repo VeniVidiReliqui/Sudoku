@@ -16,7 +16,6 @@
 using namespace std;
 
 
-// TODO: You may change ANYTHING in this file, but this code works for our solutions.
 int main(int argc, char* argv[]) {
   if(argc != 2){
     cout << "Enter sudoku board file to solve as single command-line argument.\n\n";
